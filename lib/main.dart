@@ -31,7 +31,7 @@ class PaginaPrincipalState extends State<PaginaPrincipal> {
         mainAxisSpacing: 5.0,
         crossAxisSpacing: 5.0,
         padding: const EdgeInsets.all(5.0),
-        children: _buildGridTiles(29),
+        children: _buildGridTiles(17),
       ), //fin de gridview
     ); // fin de scaffold
   } // fin de widget
